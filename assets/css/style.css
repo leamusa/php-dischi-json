@@ -1,3 +1,14 @@
 body {
-  background-color: red;
+  background-color: #1d2d3c;
+  color: #ffffff;
+}
+
+/* Header */
+
+header {
+  background-color: #06131f;
+}
+
+#logo {
+  height: 50px;
 }
